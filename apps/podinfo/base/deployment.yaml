@@ -18,7 +18,7 @@ spec:
         app: podinfo
     spec:
       containers:
-      - image: ghcr.io/stefanproden/podinfo:6.4.0
+      - image: ghcr.io/stefanproden/podinfo:6.9.1
         name: podinfo
         ports:
         - containerPort: 9898
